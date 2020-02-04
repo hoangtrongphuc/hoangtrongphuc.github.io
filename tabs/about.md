@@ -1,5 +1,5 @@
 ---
-title: About
+title: Giới thiệu bản thân
 
 # The About page
 # v2.0

@@ -1,8 +1,8 @@
 ---
-title: Lời nói đầu
+title: Hướng dẫn build blog sử dụng Jekyll (P1)
 date: 2019-08-09 20:55:00 +0800
-categories: [Blogging]
-tags: [blog]
+categories: [Tutorial]
+tags: [jekyll, tutorial]
 ---
 
 ## Preparation

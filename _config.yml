@@ -8,12 +8,12 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Coder | Kiến thức lập trình, kinh nghiệm thực tế   # the main title
+title: Lập trình đơn giản   # the main title
 
 tagline: Blog chia sẻ kiến thức và kinh nghiệm lập trình.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Blog chia sẻ kiến thức và kinh nghiệm lập trình.
+  Blog chia sẻ kiến thức và kĩ năng lập trình, các kinh nghiệm được đúc kết từ quá trình tham gia các dự án.
 
 # Replace with your domain, e.g. 'https://username.github.io'
 url: 'https://phucht.com'
@@ -39,8 +39,7 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
-
+google_site_verification: thVFrctkEoEdyZmK5b1n4jhdNSf1RQEwYietUzalYe0 # change to your verification string
 #--------------------------
 
 # if your site type is Project Pages site, change below value to '/projectname'
@@ -51,7 +50,7 @@ timezone: Asia/Ho_Chi_Minh
 
 google_analytics:
   # Fill with your Google Analytics ID
-  id: ''
+  id: 'UA-157728053-1'
   # The Google Analytics pageviews switch.
   # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
   pv: false
@@ -61,7 +60,7 @@ google_analytics:
 
 
 disqus:
-  comments: false  # boolean type, the global switch for posts comments.
+  comments: true  # boolean type, the global switch for posts comments.
   shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # The year your website first ran.
@@ -70,7 +69,7 @@ first_run: 2020
 # boolean type, global switch for ToC in posts.
 toc: true
 
-paginate: 10
+paginate: 15
 
 markdown: kramdown
 

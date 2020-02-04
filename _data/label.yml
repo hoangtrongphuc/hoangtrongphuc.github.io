@@ -8,7 +8,7 @@ tabs:
   - { name: "Bài viết", icon: 'fas fa-home' }
   - { name: "Danh mục", path: tabs, url: categories, icon: 'fas fa-stream' }
   - { name: "Tags", path: tabs, url: tags, icon: 'fas fa-tags' }
-  - { name: "Archives", path: tabs, url: archives, icon: 'fas fa-archive'}
+  - { name: "Lưu trữ", path: tabs, url: archives, icon: 'fas fa-archive'}
   - { name: "About", path: tabs, url: about, icon: 'fas fa-info'}
 
 panel:
