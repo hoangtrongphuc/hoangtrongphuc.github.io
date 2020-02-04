@@ -4,7 +4,7 @@ date: 2019-08-09 20:55:00 +0700
 categories: [Blogging]
 tags: [blog]
 seo:
-  date_modified: 2020-02-04 15:49:42 +0700
+  date_modified: 2020-02-04 16:43:05 +0700
 ---
 
 Chào mừng mọi người đến với blog [*phucht.com*](https://phucht.com). Blog là chuyên trang chia sẻ các vấn đề về lập trình, kinh nghiệm tham gia các dự án cũng như nhưng tâm sự "thầm kín" dưới góc nhìn của một developer.
