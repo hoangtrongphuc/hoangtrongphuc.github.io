@@ -1,6 +1,6 @@
 ---
 title: Hướng dẫn build blog sử dụng Jekyll (P1)
-date: 2019-08-09 20:55:00 +0800
+date: 2020-02-04 20:55:00 +0700
 categories: [Tutorial]
 tags: [jekyll, tutorial]
 ---
