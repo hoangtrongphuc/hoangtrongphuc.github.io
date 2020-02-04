@@ -21,12 +21,12 @@ phí để gia hạn tên miền (đắt hay rẻ tùy thuộc tên miền bạn
 Để đăng kí tên miền thì có nhiều nhà cung cấp như goddady, namecheap... nhưng mình đang sử dụng và thấy hài lòng nhất là Google Domains, 1 dịch vụ do gg cung cấp, giao diện gọn gàng dễ sử dụng.
 
 Bạn chỉ cần truy cập trang: **domains.google.com**, đăng nhập tài khoản gmail của bạn và tìm 1 tên miền mà bạn thích như hình dưới:
-![domains-google]({{ "/assets/img/jekyll/domain.png" | relative_url }})
+![domains-google]({{ "/assets/img/jekyll/domain.PNG" | relative_url }})
 Đoạn này chỉ cần thêm vào giỏ hàng rồi mua là xong.
 
 Tiếp theo là đến bước trỏ tên miền về dải IP của Github Pages.
 Bên thanh menu trái, bạn chọn mục *DNS*, kéo xuống phần *Bản ghi tài nguyên tùy chỉnh*, bạn cấu hình một *A* record trỏ đến 4 địa chỉ IPv4 của Github Pages như hình dưới:
-![a-record]({{ "/assets/img/jekyll/arecord.png" | relative_url }})
+![a-record]({{ "/assets/img/jekyll/arecord.PNG" | relative_url }})
 Vậy là xong bước 1, bạn đã có tên miền và trỏ tên miền này về dải IP của Github Pages, tiếp theo chúng ta sẽ tạo 1 trang Github Pages
 
 ## Tạo trang github pages
@@ -38,14 +38,14 @@ Có nhiều trang web cung cấp các jekyll themes miễn phí, và ở đây m
 Khi chọn được theme yêu thích thì bạn truy cập trang github của theme này và fork về, phần này bạn nhớ đặt tên project có dạng *{username}.github.io* (username là tên github của bạn) vì đây là tên mà Github Pages sử dụng để deploy và tạo 1 domain tạm thời để bạn truy cập blog.
 
 Sau khi hoàn tất bạn sẽ có 1 project như hình dưới: 
-![fork]({{ "/assets/img/jekyll/fork.png" | relative_url }})
+![fork]({{ "/assets/img/jekyll/fork.PNG" | relative_url }})
 
 Tiếp theo bạn vào mục *Settings* của project và setup các thành phần sau:
 - Tìm mục *Github Pages*, trong dropbox *Source* thì chọn master, đây là nhánh mà Github Pages sử dụng để deploy blog của bạn.
 - Lúc này có hiện ra mục *Custom domain*, bạn nhập domain mà bạn vừa mua vào đó, Github Pages sẽ tự tạo 1 file CNAME để tạo custom domain cho bạn, nhớ đánh dấu cả vào *Enforce HTTPS*.
 
 Sau khi hoàn tất bạn sẽ nhìn thấy thông báo như sau:
-![pages]({{ "/assets/img/jekyll/pages.png" | relative_url }})
+![pages]({{ "/assets/img/jekyll/pages.PNG" | relative_url }})
 
 Tuyệt vời, vậy là bạn có thể truy cập domain bạn đã mua để hưởng thụ thành quả. 
 
