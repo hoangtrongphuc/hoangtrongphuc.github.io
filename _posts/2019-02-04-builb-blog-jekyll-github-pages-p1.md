@@ -4,7 +4,7 @@ date: 2020-02-04 20:55:00 +0700
 categories: [Tutorial]
 tags: [jekyll, tutorial, blog, web]
 seo:
-  date_modified: 2020-02-04 16:43:05 +0700
+  date_modified: 2020-02-05 21:22:51 +0700
 ---
 
 Xin chào các bạn, hôm nay mình sẽ hướng dẫn các bạn cách tạo 1 trang blog cá nhân, từ A-Z với chi phí rẻ nhất và chất lượng khá ok :).
