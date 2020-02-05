@@ -6,7 +6,7 @@ tags: [blog]
 seo:
   date_modified: 2020-02-04 16:56:08 +0700
 ---
-
+Blog chia sẻ kiến thức và kĩ năng lập trình, kinh nghiệm phát triển các dự án phần mềm. Ngoài ra mình cũng sẽ viết tutorial để lưu lại kiến thức hoặc các vấn đề gặp phải trong công việc.
 Chào mừng mọi người đến với blog [*phucht.com*](https://phucht.com).<br/>
 Vậy là những ngày đầu tiên của năm mới 2020 đã bắt đầu, nhân dịp này xin chúc các bạn đọc một năm mới an khang, thịnh vượng, thành công với các dự án mới và có nhiều niềm vui trong công việc.<br/>
 Năm nay cũng là năm mà mình sẽ bắt đầu viết blog để chia sẻ chuyện đời, chuyện nghề cũng như lưu lại những kiến thức quan trọng trong quá trình làm việc.<br/>

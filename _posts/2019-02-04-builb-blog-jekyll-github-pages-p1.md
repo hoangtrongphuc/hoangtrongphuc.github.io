@@ -1,8 +1,8 @@
 ---
-title: Hướng dẫn build blog sử dụng Jekyll và Github Pages (P1)
+title: Hướng dẫn tạo blog miễn phí sử dụng Jekyll và Github Pages (P1)
 date: 2020-02-04 20:55:00 +0700
 categories: [Tutorial]
-tags: [jekyll, tutorial]
+tags: [jekyll, tutorial, blog, web]
 seo:
   date_modified: 2020-02-04 16:43:05 +0700
 ---
